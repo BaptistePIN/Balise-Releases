@@ -1,0 +1,7 @@
+{
+  "latest_version": "1.0",
+  "version_code": 1,
+  "release_notes": "Première version de BALISE.\n\n**Chronométrez vos spéciales sans aucun matériel.** Placez une balise au départ et une à l'arrivée, descendez : le décompte se lance tout seul au franchissement, le chrono s'arrête à l'arrivée, et tout continue écran verrouillé, téléphone en poche.\n\n- Déclenchement et arrêt automatiques du chrono sur deux points GPS, avec un rayon de tolérance réglable de 5 à 50 m — élargissez-le sous couvert forestier.\n- Décompte sonore de 10 secondes avant le vrai départ, bips et vibrations à l'arrivée : rien à regarder pendant la descente.\n- Sessions de club avec un code à 4 caractères : les balises capturées par l'organisateur se propagent à tout le monde, et le classement se met à jour en direct.\n- Suivi en direct des coureurs sur une carte, réservé à l'organisateur.\n- Cartes topographiques et sentiers vélo, import et export GPX, bibliothèque de traces partagée avec le club.\n- Historique complet conservé sur le téléphone, segments réutilisables d'une sortie à l'autre.\n\nLe chronométrage fonctionne entièrement hors réseau. Seul le partage entre coureurs demande une connexion.\n\nTéléchargez `balise.apk` ci-dessous et ouvrez-le sur votre téléphone Android 8.0 ou plus récent. Les mises à jour suivantes vous seront proposées dans l'application.",
+  "download_url": "https://github.com/BaptistePIN/Balise-Releases/releases/latest/download/balise.apk",
+  "min_supported_version": "1.0"
+}
