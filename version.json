@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.4",
-  "version_code": 5,
-  "release_notes": "Secteurs placés à la main et détection de chute.\n\n**Secteurs manuels** — sur un tracé GPX importé, activez le placement manuel et touchez la carte pour poser vos limites de secteur là où vous le voulez. Annuler, rétablir et réinitialiser disponibles.\n\n**Détection de chute** — en session de club, un impact suivi d'une immobilité prolongée alerte immédiatement l'organisateur avec votre position GPS. L'alerte s'efface toute seule quand vous repartez.\n\n**Réglages** — l'adresse du serveur du club se configure désormais dans ☰ → Paramètres.",
+  "latest_version": "1.5",
+  "version_code": 6,
+  "release_notes": "Carte des segments et classement général de club.\n\n**Segments et références** — une carte plein écran montre toutes les spéciales du club. Touchez-en une pour voir vos temps, ceux des autres, et la charger d'un geste.\n\n**Classement général** — une compétition de club par trimestre. L'organisateur enregistre la manche à la fin d'une session : 100 points au premier, dix de moins par place. L'historique des saisons passées est conservé.\n\nL'adresse du serveur du club se règle désormais dans ☰ → Paramètres.",
   "download_url": "https://github.com/BaptistePIN/Balise-Releases/releases/latest/download/balise.apk",
   "min_supported_version": "1.0"
 }
