@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.5.5",
-  "version_code": 7,
-  "release_notes": "v1.5.5 — fond de carte sombre sans clé d'API (CartoDB remplacé par CyclOSM assombri dans l'app)",
+  "latest_version": "1.6",
+  "version_code": 8,
+  "release_notes": "v1.6 — carte des segments : fond OSM France assombri en couleurs, clic sur le tracé enfin fonctionnel avec marge proportionnelle au zoom, pastilles nommées, contour noir, cadrage 5 km, point bleu de position, alerte de chute sous la carte.",
   "download_url": "https://github.com/BaptistePIN/Balise-Releases/releases/latest/download/balise.apk",
   "min_supported_version": "1.0"
 }
