@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.6",
-  "version_code": 8,
-  "release_notes": "v1.6 — carte des segments : fond OSM France assombri en couleurs, clic sur le tracé enfin fonctionnel avec marge proportionnelle au zoom, pastilles nommées, contour noir, cadrage 5 km, point bleu de position, alerte de chute sous la carte.",
+  "latest_version": "1.8",
+  "version_code": 10,
+  "release_notes": "BALISE v1.8 — comptes Google, configuration de club compilée, tiroir des spéciales visibles, secteurs automatiques corrigés",
   "download_url": "https://github.com/BaptistePIN/Balise-Releases/releases/latest/download/balise.apk",
   "min_supported_version": "1.0"
 }
