@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.8",
-  "version_code": 10,
-  "release_notes": "BALISE v1.8 — comptes Google, configuration de club compilée, tiroir des spéciales visibles, secteurs automatiques corrigés",
+  "latest_version": "1.9",
+  "version_code": 11,
+  "release_notes": "BALISE v1.9 — case Arrivée, suppression de run, alertes « spéciale libre » et chute",
   "download_url": "https://github.com/BaptistePIN/Balise-Releases/releases/latest/download/balise.apk",
   "min_supported_version": "1.0"
 }
